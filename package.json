@@ -1,0 +1,27 @@
+{
+  "name": "tictactoe-react-app",
+  "version": "1.0.0",
+  "description": "tic tac toe React project for self learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentallaboratories/tictactoe-React-app.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "log"
+  ],
+  "author": "mv",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mentallaboratories/tictactoe-React-app/issues"
+  },
+  "homepage": "https://github.com/mentallaboratories/tictactoe-React-app#index",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
